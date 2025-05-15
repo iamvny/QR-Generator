@@ -2,7 +2,7 @@
 
 A simple and user-friendly web application that allows you to generate QR codes for any text or URL input. Built with HTML, CSS, and JavaScript, this tool is lightweight and easy to use.
 
-![QR Code Generator Screenshot]([https://iamvny.github.io/QR-Generator/screenshot.png](https://github.com/vinodjangid07/QR-Generator/assets/86096184/a9ab9933-059a-47f1-a551-0de70716514c))
+![Screenshot 2025-05-15 143727](https://github.com/user-attachments/assets/3a3dae2f-2666-47d4-8013-4d1281eb4ffc)
 
 ## Features
 
